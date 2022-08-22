@@ -1,32 +1,25 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<a href="https://github.com/FahimFBA" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=IldarGreat&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+</div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-![](https://komarev.com/ghpvc/?username=IldarGreat)
 
-## I'm a student of Samara University
-- 💪 I like to write code
-- 🎉 I love professional sports
-- 🥅 I am constantly learning new things
+ 🔭 I’m currently working on [Some private](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+- 🌱 I’m currently learning **html&css**
+- 👨‍💻 All(almost) of my projects are available at my profile
+- 💬 Ask me about **java**
+- 📫 How to reach me **ildarthegreat@gmail.com**
+- ⚡ Fun fact **I don't like code, i like to build architecture**
 
-### Connect with me:
+## 👨‍💻 &nbsp;Talking to Computers Using :
 
-[<img align="left" alt="IldarGreat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="IldarGreat | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+### &nbsp;- Languages
 
-<br />
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
-[instagram]: https://www.instagram.com/the_great_parasyte/
-[vk]: https://vk.com/ii2409
-<!--
-**IldarGreat/IldarGreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
